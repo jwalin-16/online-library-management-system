@@ -1,0 +1,6 @@
+{
+  "name": "Online Library Management System",
+  "description": "Comprehensive, modern library management platform for managing books, student registrations, book borrowings, returns, overdue fines, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
